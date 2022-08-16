@@ -1,0 +1,17 @@
+@import './modern-normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+:root{
+  --max-width: 1200px;
+  --violet: #8a2be2;
+  --gray: #dbdddc;
+  --principal-color:#1c1d4f;
+}
+
+body{
+  min-height: 100vh;
+  background: linear-gradient(to top, #2e016a, #530277, #740882, #95138c, #b52095);;
+  font-family: 'Noto Sans', sans-serif;
+}
+
